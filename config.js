@@ -8,19 +8,19 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
+global.botname = process.env.BotName || "𝞘𝞜𝙎𝞠𝞘𝞒𝞗 𝞖𝞢𝞒𝞢" 
+global.author = process.env.Author || "inspirbotz" 
 global.packname = process.env.PackName || "Queen Anya v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© Queen Anya Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownernumber = process.env.Owner_Number || "918078948531" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.timezone = process.env.TimeZone || "Asia/Kerala" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.email = process.env.Email_Id || "nginspiro@gmail.com" 
 
 global.mongoUrl = process.env.MongoDB || "Enter"; 
 
